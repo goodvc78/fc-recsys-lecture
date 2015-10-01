@@ -1,0 +1,49 @@
+day,time,zone,title,session_id
+Day1,10:00,T1,네이버 효과툰은 어떻게 만들어졌나?,115
+Day1,10:00,T2,실전 스위프트 프로그래밍,95
+Day1,10:00,T3,Developing Android Libraries: Lessons from Realim,119
+Day1,10:00,T4,DRC-HUBO: Technical Review,114
+Day1,11:00,T1,네이버 효과툰 구현 이야기,89
+Day1,11:00,T2,LINE on Apple Watch,61
+Day1,11:00,T3,Quality without QA,76
+Day1,11:00,T4,MIT Cheetah 로봇의 탄생,116
+Day1,12:00,T1,Packetbeat 과 Elasticsearch 를 이용한 실시간 모니터링,121
+Day1,12:00,T2,Rust 프로그래밍 언어,113
+Day1,12:00,T3,브라우저는 VSync 를 어떻게 활용하고 있을까,87
+Day1,12:00,T4,Immersive Sound for VR,67
+Day1,14:10,T1,React Everywhere,88
+Day1,14:10,T2,How Riot Works,64
+Day1,14:10,T3,안드로이드 기반의 모바일 혈액진단기 개발 삽질기 그리고 우리가 쌓은 경험,74
+Day1,14:10,T4,Mobile 앱에서 효율적인 storage 접근 방법,78
+Day1,15:10,T1,영상 인식을 통한 오프라인 고객 분석 솔루션과 딥러닝,70
+Day1,15:10,T2,웹 브라우저 감옥에서 살아남기,112
+Day1,15:10,T3,딥러닝에서 스트림처리까지: 빅데이터 분석 메타 프레임워크 Apache REEF,71
+Day1,15:10,T4,데이터 센터의 오픈 소스 Open Compute Project (OCP),72
+Day1,16:10,T1,데이터사이언스팀 빌딩 그리고 시스템 구축,118
+Day1,16:10,T2,JPA와 모던 자바 데이터 저장 기술,109
+Day1,16:10,T3,Accelerated compositing in WebKit: Now and in the future,75
+Day1,16:10,T4,대규모 분산환경에 최적화된 APM:Pinpoint,90
+Day2,10:00,T1,네이버 검색과 데이터마이닝,92
+Day2,10:00,T2,Large scale backend service development using Node.js Docker and AWS,63
+Day2,10:00,T3,Building Ethereum,126
+Day2,10:00,T4,Data science with Apache Zeppelin,123
+Day2,11:00,T1,Docker Orchestration,117
+Day2,11:00,T2,대화 시스템 서비스 동향 및 개발 방법,94
+Day2,11:00,T3,HBase consistent secondary indexing,85
+Day2,11:00,T4,기계 번역 모델 기반 질의 교정 시스템,125
+Day2,12:00,T1,The simplicity of cluster apps with the Circuit: Implementing a job scheduler,124
+Day2,12:00,T2,수퍼컴퓨팅과 데이터 어낼리틱스 프레임워크 그리고 UNIST의 빅데이터 처리 프레임워크,82
+Day2,12:00,T3,Level 2 Network Programming using PacketNgin RTOS,69
+Day2,12:00,T4,산업 현장을 위한 증강 현실 기기 DAQRI Helmet 개발기,111
+Day2,14:10,T1,Storm과 Elasticsearch를 활용한 로깅 플랫폼의 실시간 알람 시스템 구현,91
+Day2,14:10,T2,WIFI를 이용한 실내 장소 인식 하기,122
+Day2,14:10,T3,Turning data into value,68
+Day2,14:10,T4,분산 환경에서의 스트림과 배치 처리 통합 모델,86
+Day2,15:10,T1,Implementing Deep Learning using cuDNN,73
+Day2,15:10,T2,증분 처리 플랫폼 Cana 개발기,84
+Day2,15:10,T3,Enterprise Dataflow with Apache NiFi,93
+Day2,15:10,T4,Presto 내부 구조 파헤치기,62
+Day2,16:10,T1,코끼리 냉장고에 집어넣기 - 실시간 추천엔진을 머신 한대에 구겨넣기,83
+Day2,16:10,T2,Netflix 빅데이터 플랫폼 + Apache Spark 통합 경험기,80
+Day2,16:10,T3,S2Graph: A Large scale graph database with HBase,65
+Day2,16:10,T4,Large-Scale Deep Learning on Spark,77
