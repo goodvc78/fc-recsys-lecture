@@ -1,0 +1,10 @@
+사용자 음원 스트리밍 정보
+MEM_UNO, SONG_ID, ARTIST_ID, GENRE_CODE, REG_DATE
+
+
+장르코드 정보
+GENRE_CODE, GENRE_NAME
+
+
+아티스트 정보
+ARTIST_ID, ARTIST_NAME
